@@ -1,9 +1,15 @@
 👋 Hi, I’m @NtohnwiBih  
+
 👀 I’m interested in Web Development, Mobile Development, AI/ML 
+
 🌱 I’m currently learning Python 
+
 💞️ I’m looking to collaborate on open-source projects 
+
 📫 How to reach me: mforbesintohnwi@gmail.com
+
 😄 Pronouns: she/her 
+
 ⚡ Fun fact: 
 
 <!---
