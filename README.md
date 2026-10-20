@@ -37,7 +37,7 @@ I'm a software engineer from Cameroon passionate about building practical, scala
 
 ### A Little More About Me
 
-I enjoy learning by building real projects, exploring new technologies, and turning complex ideas into usable software. I'm particularly interested in the intersection of backend engineering and AI, where intelligent systems can do more than generate responses—they can help complete meaningful work.
+I enjoy learning by building real projects, exploring new technologies, and turning complex ideas into usable software. I'm particularly interested in the intersection of backend engineering and AI, where intelligent systems can do more than generate responses, they can help complete meaningful work.
 
 ---
 
