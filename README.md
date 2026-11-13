@@ -1,6 +1,6 @@
 # Hi, I'm Ntohnwi Bih Mforbesi 👋
 
-**Full-Stack Software Engineer | Backend Development | AI-Powered Applications**
+**Full-Stack Software Engineer | Backend Development | Frontend Development | AI-Powered Applications**
 
 I'm a software engineer from Cameroon passionate about building practical, scalable software that solves real-world problems. I work across frontend and backend development, with a growing focus on AI-powered applications, workflow automation, and system design.
 
